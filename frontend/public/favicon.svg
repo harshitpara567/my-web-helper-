@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80">
+  <rect width="120" height="80" rx="10" fill="#0A0D0B"/>
+  <text x="60" y="56" textAnchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="52" fill="#F5A623" letter-spacing="-2">MWH</text>
+  <line x1="8" y1="76" x2="112" y2="6" stroke="#E8E8E8" stroke-width="5" stroke-linecap="round" opacity="0.95"/>
+</svg>

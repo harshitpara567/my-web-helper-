@@ -1,0 +1,17 @@
+{
+  "name": "healthy-web-care",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My Web Helper — premium digital agency website (Next.js frontend + Express/TypeScript backend monorepo)",
+  "scripts": {
+    "install:all": "npm --prefix frontend install && npm --prefix backend install",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "dev:backend": "npm --prefix backend run dev",
+    "build:frontend": "npm --prefix frontend run build",
+    "build:backend": "npm --prefix backend run build",
+    "lint": "npm --prefix frontend run lint && npm --prefix backend run lint"
+  },
+  "engines": {
+    "node": ">=18.18.0"
+  }
+}
